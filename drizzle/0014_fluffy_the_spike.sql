@@ -1,0 +1,1 @@
+ALTER TABLE `auth_tokens` MODIFY COLUMN `token` varchar(128) NOT NULL;

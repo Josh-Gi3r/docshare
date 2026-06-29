@@ -1,0 +1,1 @@
+ALTER TABLE `share_links` ADD `viewCount` int DEFAULT 0 NOT NULL;

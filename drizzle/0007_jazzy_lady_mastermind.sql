@@ -1,0 +1,1 @@
+ALTER TABLE `share_links` ADD `ogTitle` varchar(256);
